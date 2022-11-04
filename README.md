@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Minishell**
 
-- 🌱 I’m currently learning **Django, Flask, Data Analisis**
+- 🌱 I’m currently learning **Django, Flask, Data Analyst**
 
 - 📫 How to reach me **veaz.24@gmail.com**
 
