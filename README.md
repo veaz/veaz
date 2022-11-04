@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Aguilar</h1>
 <h3 align="center">A student at 42 School in Barcelona, currently learning C, C++ and Python.</h3>
 
-- 🔭 I’m currently working on **Minishell**
-
 - 🌱 I’m currently learning **Django, Flask, Data Analyst**
 
 - 📫 How to reach me **veaz.24@gmail.com**
