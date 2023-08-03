@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Aguilar</h1>
 <h3 align="center">A student at 42 School in Barcelona</h3>
 
-- 🌱 I’m currently learning **C, C++ and Python.**
+- 🌱 I’m currently learning **C++ and React.**
 
 - 📫 How to reach me **veaz.24@gmail.com**
 
