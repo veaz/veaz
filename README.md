@@ -21,6 +21,7 @@ I'm a passionate software developer with a focus on backend technologies, digita
 - [LinkedIn](https://www.linkedin.com/in/victoraguilarzerpa/)
 - [Twitter](https://x.com/_veaz_)
 - [Email](mailto:veaz.24@gmail.com)
+- [Personal website](https://victoraguilar.dev/)
 
 ---
 
